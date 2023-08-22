@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Broadway/django"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
